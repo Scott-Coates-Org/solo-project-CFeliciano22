@@ -71,11 +71,8 @@ Go to the [milestones tab](../../milestone/1) to track your progress.
 
 ### Description
 
-**Required:** update [your repository](https://stackoverflow.com/questions/7757751/how-do-you-change-a-repository-description-on-github) with a short description of your project.
-
+Blockstart is a one stop shop for beginners to manage their crypto assets. Whether you are transferring Ethereum from one wallet to another, or exchanging Ethereum based tokens. Blockstart facilitates the way you stay in touch with your crypto assets.
 ### Mockups
-
-*View `README.md` to see how to replace me with mockups.*
 
 | ![Mockup #1](/mockups/IMG_3884.jpeg) | ![Mockup #2](mockups/IMG_3885.jpeg) |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
