@@ -1,7 +1,7 @@
-import Counter from './components/Counter'
+
 import logo from './logo.svg'
 import './App.css'
-// import Login from './components/login/Login'
+
 
 function App() {
 	return (
@@ -11,9 +11,9 @@ function App() {
 				<p>
 					Edit <code>src/App.js</code> and save to reload.
 				</p>
-				<Counter />
+				
+				
 			</header>
-			{/* <Login /> */}
 		</div>
 	)
 }

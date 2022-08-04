@@ -77,6 +77,6 @@ Go to the [milestones tab](../../milestone/1) to track your progress.
 
 *View `README.md` to see how to replace me with mockups.*
 
-| ![Benjamin Bannekat](/mockups/github-cat.png) | ![Benjamin Bannekat](/mockups/github-cat.png) |
+| ![Mockup #1](/mockups/IMG_3884.jpeg) | ![Mockup #2](mockups/IMG_3885.jpeg) |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![Benjamin Bannekat](/mockups/github-cat.png) | ![Benjamin Bannekat](/mockups/github-cat.png) |
+| ![Mockup #3](mockups/IMG_3886.jpeg) | ![Mockup #4](mockups/IMG_3887.jpeg) |
