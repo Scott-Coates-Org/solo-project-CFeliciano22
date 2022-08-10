@@ -1,7 +1,9 @@
+import './Swap.scss'
+
 const Swap = () => {
   return (
-    <div>
-      <h1>uniswap/1inch integration goes here</h1>
+    <div className="swap">
+      <h2>uniswap/1inch integration goes here</h2>
     </div>
   )
 }
